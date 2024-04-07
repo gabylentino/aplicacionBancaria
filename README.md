@@ -1,1 +1,1 @@
-# aplicacionBancaria
+Proyecto del modulo 1 del curso de Backend Java de Oracle One G6, el mismo consiste en mostrar por consola el nombre de un cliente, el tipo de cuenta bancaria que posee, su saldo en cuenta y un menu con las distintas operaciones que puede realizar (cada una con su correspondiente codigo).
